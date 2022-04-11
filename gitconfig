@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = felixheuer1@googlemail.com
+	name = cd ~/code/$nomadeleven/dotfiles && zsh git_setup.sh
